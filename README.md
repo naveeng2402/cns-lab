@@ -9,7 +9,7 @@
 - [ ] Vigenere Cipher
 - [ ] Row Transposition
 - [x] Diffe HellMan Key Exchange
-- [ ] RSA Javascript
+- [x] RSA Javascript
 - [ ] SHA 1
 - [ ] DES
 - [ ] AES
