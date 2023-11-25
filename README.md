@@ -8,7 +8,7 @@
 - [ ] Playfair Cipher
 - [ ] Vigenere Cipher
 - [ ] Row Transposition
-- [ ] Diffe HellMan Key Exchange
+- [x] Diffe HellMan Key Exchange
 - [ ] RSA Javascript
 - [ ] SHA 1
 - [ ] DES
