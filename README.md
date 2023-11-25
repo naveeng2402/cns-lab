@@ -2,18 +2,18 @@
 
 ## Problems
 
-- [ ] AES
 - [x] Ceaser Cipher
-- [ ] DES
-- [ ] Diffe HellMan Key Exchange
-- [ ] Digital Signature
 - [ ] Hill Cipher
-- [ ] Playfair Cipher
 - [ ] Rail Fence Transposition
+- [ ] Playfair Cipher
+- [ ] Vigenere Cipher
 - [ ] Row Transposition
+- [ ] Diffe HellMan Key Exchange
 - [ ] RSA Javascript
 - [ ] SHA 1
-- [ ] Vigenere Cipher
+- [ ] DES
+- [ ] AES
+- [ ] Digital Signature
 
 
 ## Tools
